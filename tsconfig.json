@@ -2,10 +2,12 @@
     "files": [
         "src/main.ts",
         "src/class.ts",
+        "src/decorator.ts",
         "src/interface.ts"
     ],
     "compilerOptions": {
         "noImplicitAny": true,
+        "experimentalDecorators":true,
         "target": "es5"
     }
 }

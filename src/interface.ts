@@ -71,4 +71,4 @@ p.x = '1';
 function func<T>(arg:T):T{
     return arg;
 }
-func<string>('1');
+func<string>('333');
